@@ -1,5 +1,5 @@
-age=18
-if age>=18
+age=20
+if age>=20
 print("you are eligible for voting")
 else
 print("you are not eligible")
