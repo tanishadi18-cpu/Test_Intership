@@ -1,6 +1,7 @@
 # Test\_Intership
 
-Intership sessions
+Intership sessions...
 
-Session Day 2- GitHub Session
+Session Day 2- GitHub Session...
 
+ReadMe file edited directly in Github...
